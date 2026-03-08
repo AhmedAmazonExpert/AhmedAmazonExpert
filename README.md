@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmed — Amazon PPC & Brand Growth Strategist
+# 👋 Hi, I'm Ahmed - Amazon PPC & Brand Growth Strategist
 
 🎯 Helping brands scale profitably across Amazon, Walmart, eBay, and Shopify
 📊 5+ years managing $30K–$70K/month ad budgets for multi-million dollar brands
