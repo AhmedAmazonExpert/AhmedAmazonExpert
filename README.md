@@ -11,11 +11,11 @@ My approach combines deep keyword research, strategic campaign architecture,
 and continuous optimization to reduce ACoS while scaling revenue.
 
 ### Core Expertise
-- 🔥 **Amazon PPC Management** — SP, SB, SD, DSP, Video campaigns
-- 📝 **Listing Optimization & SEO** — Titles, bullets, A+ Content, EBC
-- 📦 **Account & Catalog Management** — Flat files, variations, compliance
-- 🌍 **International Expansion** — US, UK, Canada, Germany, Spain, Italy, France
-- 📈 **Data Analysis & Reporting** — Custom dashboards, ACoS/TACoS tracking
+- 🔥 **Amazon PPC Management** - SP, SB, SD, DSP, Video campaigns
+- 📝 **Listing Optimization & SEO** - Titles, bullets, A+ Content, EBC
+- 📦 **Account & Catalog Management** - Flat files, variations, compliance
+- 🌍 **International Expansion** - US, UK, Canada, Germany, Spain, Italy, France
+- 📈 **Data Analysis & Reporting** - Custom dashboards, ACoS/TACoS tracking
 
 ### Tools I Work With
 Helium 10 | Jungle Scout | AMZScout | Keepa | Viral Launch | 
